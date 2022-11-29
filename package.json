@@ -1,0 +1,25 @@
+{
+  "name": "proxySPA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node server/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max-kravchenko/proxySPA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/max-kravchenko/proxySPA/issues"
+  },
+  "homepage": "https://github.com/max-kravchenko/proxySPA#readme",
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "eslint-plugin-react": "^7.31.11"
+  }
+}
