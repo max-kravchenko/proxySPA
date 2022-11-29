@@ -1,6 +1,6 @@
 ## SPA for viewing e-games news
 
-The project is ~20% done.
+The project is ~20% done. Used stack - Node.js, React. Additional libraries: puppeteer, absolutify.
 
 ### Part 1. Proxy Server
 * To run the server locally, clone the project using ssh or html links
